@@ -1,0 +1,16 @@
+# Data files (too large for git; see data/README.md)
+data/raw/
+data/processed/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+*.Rproj

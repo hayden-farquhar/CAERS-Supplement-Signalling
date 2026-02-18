@@ -1,0 +1,29 @@
+product_pattern,pt_pattern,evidence,found,n_pairs,any_robust,max_prr,max_a,control_type
+^KRATOM,Death,"FDA import alert, DEA, extensive literature",TRUE,2,TRUE,4435.9702970297,178,positive
+^KRATOM,Drug Dependence|Withdrawal,Known addictive properties of mitragynine,TRUE,3,TRUE,33.5695049504951,28,positive
+^KRATOM,Seizure,Case series: Trakulsrichai et al. 2015,TRUE,1,TRUE,10.0607906944541,12,positive
+^HYDROXYCUT,Liver|Hepat|Jaundice,"2009 FDA recall, Fong et al. 2010",TRUE,79,TRUE,221.853658536585,98,positive
+^HYDROXYCUT,Rhabdomyolysis,"Case reports, sympathomimetic mechanism",TRUE,11,TRUE,81.3833333333333,66,positive
+^OXY.?ELITE,Hepatitis|Liver|Hepat,"2013 FDA recall, Hawaii outbreak",TRUE,10,TRUE,150.258461538462,14,positive
+^EPHEDRA,Myocardial|Cardiac Arrest|Stroke,"2004 FDA ban, Haller & Benowitz 2000",FALSE,0,FALSE,,,positive
+^LIPODRENE,Tachycardia|Palpitations|Cardiac,Sympathomimetic amine content,FALSE,0,FALSE,,,positive
+^HYDROXYCUT,Nausea|Vomiting,"Common GI adverse effects, well-documented",TRUE,15,TRUE,6.21614052953157,29,positive
+^KRATOM,Nausea|Vomiting,Common effects at standard doses,TRUE,2,FALSE,1.03153587631869,31,positive
+^KRATOM,Tachycardia|Palpitations,Sympathomimetic effects of mitragynine,FALSE,0,FALSE,,,positive
+^RED YEAST,Rhabdomyolysis|Myalgia,Contains monacolin K (lovastatin equivalent),FALSE,0,FALSE,,,positive
+^YOHIMBE,Tachycardia|Hypertension|Anxiety,Alpha-2 antagonist mechanism,FALSE,0,FALSE,,,positive
+^CENTRUM,Rhabdomyolysis,No myotoxic mechanism in standard multivitamin,FALSE,0,FALSE,,,negative
+^CENTRUM,Seizure,No proconvulsant mechanism,FALSE,0,FALSE,,,negative
+^FISH OIL|^OMEGA,Alopecia|Hair Loss,No mechanism for hair loss,FALSE,0,FALSE,,,negative
+^FISH OIL|^OMEGA,Fracture,No mechanism for bone fragility,FALSE,0,FALSE,,,negative
+^VITAMIN D,Tinnitus,No ototoxic mechanism,FALSE,0,FALSE,,,negative
+^VITAMIN D,Rhabdomyolysis,No myotoxic mechanism at standard doses,FALSE,0,FALSE,,,negative
+^CALCIUM|^CALTRATE|^CITRACAL,Seizure,No proconvulsant mechanism,FALSE,0,FALSE,,,negative
+^CALCIUM|^CALTRATE|^CITRACAL,Alopecia|Hair Loss,No mechanism for hair loss,FALSE,0,FALSE,,,negative
+^MELATONIN,Renal Failure|Kidney,No nephrotoxic mechanism,FALSE,0,FALSE,,,negative
+^MELATONIN,Rhabdomyolysis,No myotoxic mechanism,FALSE,0,FALSE,,,negative
+^GLUCOSAMINE,Blindness|Vision Loss,No ocular toxicity mechanism,FALSE,0,FALSE,,,negative
+^GLUCOSAMINE,Seizure,No proconvulsant mechanism,FALSE,0,FALSE,,,negative
+^PROBIOTIC|^CULTURELLE,Fracture,No mechanism for bone fragility,FALSE,0,FALSE,,,negative
+^BIOTIN,Cardiac Arrest,No cardiotoxic mechanism,FALSE,0,FALSE,,,negative
+^FOLIC ACID,Rhabdomyolysis,No myotoxic mechanism,FALSE,0,FALSE,,,negative

@@ -1,0 +1,105 @@
+product_category,soc,n_signals
+CBD/Hemp,Respiratory Disorders,1
+Energy/Stimulant,Other/Unclassified,25
+Energy/Stimulant,Gastrointestinal Disorders,21
+Energy/Stimulant,General Disorders,12
+Energy/Stimulant,Nervous System Disorders,8
+Energy/Stimulant,Skin and Subcutaneous Tissue Disorders,6
+Energy/Stimulant,Cardiac Disorders,5
+Energy/Stimulant,Immune System Disorders,4
+Energy/Stimulant,Respiratory Disorders,4
+Energy/Stimulant,Blood Disorders,3
+Energy/Stimulant,Hepatobiliary Disorders,1
+Energy/Stimulant,Psychiatric Disorders,1
+Herbal/Botanical,Other/Unclassified,68
+Herbal/Botanical,Gastrointestinal Disorders,42
+Herbal/Botanical,Hepatobiliary Disorders,27
+Herbal/Botanical,General Disorders,26
+Herbal/Botanical,Nervous System Disorders,18
+Herbal/Botanical,Psychiatric Disorders,10
+Herbal/Botanical,Skin and Subcutaneous Tissue Disorders,6
+Herbal/Botanical,Respiratory Disorders,5
+Herbal/Botanical,Cardiac Disorders,4
+Herbal/Botanical,Blood Disorders,2
+Herbal/Botanical,Immune System Disorders,2
+Omega/Fish Oil,Gastrointestinal Disorders,12
+Omega/Fish Oil,Other/Unclassified,8
+Omega/Fish Oil,Respiratory Disorders,8
+Omega/Fish Oil,Blood Disorders,4
+Omega/Fish Oil,Nervous System Disorders,4
+Omega/Fish Oil,General Disorders,3
+Omega/Fish Oil,Cardiac Disorders,2
+Omega/Fish Oil,Skin and Subcutaneous Tissue Disorders,2
+Omega/Fish Oil,Hepatobiliary Disorders,1
+Omega/Fish Oil,Immune System Disorders,1
+Other,Other/Unclassified,499
+Other,Gastrointestinal Disorders,340
+Other,General Disorders,120
+Other,Blood Disorders,79
+Other,Nervous System Disorders,77
+Other,Skin and Subcutaneous Tissue Disorders,50
+Other,Respiratory Disorders,42
+Other,Cardiac Disorders,41
+Other,Hepatobiliary Disorders,40
+Other,Renal and Urinary Disorders,39
+Other,Psychiatric Disorders,21
+Other,Immune System Disorders,20
+Other,Eye Disorders,17
+Other,Musculoskeletal Disorders,13
+Other,Metabolism and Nutrition Disorders,11
+Probiotic,Gastrointestinal Disorders,12
+Probiotic,Other/Unclassified,12
+Probiotic,Blood Disorders,1
+Probiotic,General Disorders,1
+Probiotic,Nervous System Disorders,1
+Probiotic,Renal and Urinary Disorders,1
+Sexual Enhancement,Nervous System Disorders,3
+Sexual Enhancement,Blood Disorders,2
+Sexual Enhancement,Cardiac Disorders,2
+Sexual Enhancement,Other/Unclassified,2
+Sexual Enhancement,Gastrointestinal Disorders,1
+Sexual Enhancement,General Disorders,1
+Sexual Enhancement,Skin and Subcutaneous Tissue Disorders,1
+Sleep Aid,Psychiatric Disorders,6
+Sleep Aid,Nervous System Disorders,2
+Sleep Aid,Other/Unclassified,2
+Sleep Aid,Gastrointestinal Disorders,1
+Sleep Aid,Immune System Disorders,1
+Sleep Aid,Respiratory Disorders,1
+Sports Nutrition,Respiratory Disorders,9
+Sports Nutrition,Gastrointestinal Disorders,8
+Sports Nutrition,General Disorders,7
+Sports Nutrition,Immune System Disorders,6
+Sports Nutrition,Skin and Subcutaneous Tissue Disorders,6
+Sports Nutrition,Other/Unclassified,5
+Sports Nutrition,Nervous System Disorders,2
+Sports Nutrition,Blood Disorders,1
+Vitamin/Mineral,Gastrointestinal Disorders,303
+Vitamin/Mineral,Other/Unclassified,236
+Vitamin/Mineral,General Disorders,30
+Vitamin/Mineral,Respiratory Disorders,17
+Vitamin/Mineral,Nervous System Disorders,13
+Vitamin/Mineral,Blood Disorders,11
+Vitamin/Mineral,Immune System Disorders,9
+Vitamin/Mineral,Skin and Subcutaneous Tissue Disorders,9
+Vitamin/Mineral,Psychiatric Disorders,8
+Vitamin/Mineral,Hepatobiliary Disorders,6
+Vitamin/Mineral,Renal and Urinary Disorders,6
+Vitamin/Mineral,Musculoskeletal Disorders,4
+Vitamin/Mineral,Cardiac Disorders,2
+Vitamin/Mineral,Metabolism and Nutrition Disorders,2
+Vitamin/Mineral,Eye Disorders,1
+Weight Loss/Diet,Other/Unclassified,149
+Weight Loss/Diet,Hepatobiliary Disorders,94
+Weight Loss/Diet,Gastrointestinal Disorders,59
+Weight Loss/Diet,General Disorders,46
+Weight Loss/Diet,Nervous System Disorders,25
+Weight Loss/Diet,Musculoskeletal Disorders,22
+Weight Loss/Diet,Psychiatric Disorders,21
+Weight Loss/Diet,Renal and Urinary Disorders,21
+Weight Loss/Diet,Cardiac Disorders,20
+Weight Loss/Diet,Respiratory Disorders,17
+Weight Loss/Diet,Blood Disorders,12
+Weight Loss/Diet,Skin and Subcutaneous Tissue Disorders,11
+Weight Loss/Diet,Immune System Disorders,8
+Weight Loss/Diet,Metabolism and Nutrition Disorders,3

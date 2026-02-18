@@ -1,0 +1,6 @@
+criterion,n_signals
+Unadjusted p < 0.05,3169
+BH-adjusted FDR < 0.05,3060
+BH-adjusted FDR < 0.01,2642
+Bonferroni p < 0.05,1789
+Robust (>=3/4 methods),3017

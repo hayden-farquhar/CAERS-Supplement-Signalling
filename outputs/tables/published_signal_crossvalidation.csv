@@ -1,0 +1,22 @@
+product_pattern,pt_pattern,source,found,n_pairs,n_robust,max_prr,total_cases
+^HYDROXYCUT,Hepat|Liver|Jaundice,Fong et al. 2010; FDA recall 2009,TRUE,79,78,221.853658536585,702
+^OXY.?ELITE,Hepat|Liver|Jaundice,Roytman et al. 2014; FDA recall 2013,TRUE,11,11,150.258461538462,72
+^HERBALIFE,Hepat|Liver|Jaundice,Stickel & Shouval 2015; multiple case series,TRUE,25,25,49.4989858012171,100
+^GREEN TEA,Hepat|Liver,Mazzanti et al. 2009; EFSA 2018,TRUE,2,2,43.5892857142857,6
+^KAVA,Hepat|Liver,Teschke et al. 2003; multiple countries banned,FALSE,0,0,,
+^KRATOM,Death,Gershman et al. 2019; FDA advisory,TRUE,2,2,4435.9702970297,215
+^KRATOM,Dependence|Withdrawal|Addiction,Swogger et al. 2015; DEA scheduling,TRUE,5,5,110.23927765237,168
+^KRATOM,Seizure,Post et al. 2019; case series,TRUE,1,1,10.0607906944541,12
+^EPHEDRA,Cardiac|Myocardial|Stroke|Arrhyth,Haller & Benowitz 2000; FDA ban 2004,FALSE,0,0,,
+^HYDROXYCUT,Rhabdomyolysis,FDA MedWatch reports,TRUE,11,11,81.3833333333333,133
+^YOHIMBE,Hypertension|Tachycardia|Anxiety,Cimolai & Cimolai 2011,FALSE,0,0,,
+^CENTRUM,Choking|Dysphagia,FDA consumer complaints; tablet size,TRUE,189,171,20.3568153397249,3378
+^CITRACAL,Choking|Dysphagia,FDA consumer complaints; tablet size,TRUE,71,64,10.1814011676397,1219
+^CALTRATE,Choking|Dysphagia,FDA consumer complaints; tablet size,TRUE,25,16,16.2851187994998,169
+^HYDROXYCUT,Nausea|Vomiting|Abdominal,"Common AEs, product labelling",TRUE,26,7,6.21614052953157,225
+^FLORASTOR,Fungaemia|Sepsis,Enache-Angoulvant & Hennequin 2005,TRUE,4,4,1627.4,30
+VITAMIN B6,Neuropathy|Paraesthesia,Dalton & Dalton 1987; TGA 2023,TRUE,3,3,226.064814814815,42
+VITAMIN A,Hepatotoxicity|Liver,Geubel et al. 1991; dose-dependent,FALSE,0,0,,
+NIACIN,Flushing|Hepat,Guyton et al. 2014,TRUE,4,4,77.9457302474062,20
+^SUPER BETA PROSTATE,Blood Urine|Urin,FDA warning letters,TRUE,12,11,100.409090909091,475
+GRIPE WATER,Choking,FDA consumer advisory,TRUE,8,8,8.03092105263158,60

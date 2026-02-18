@@ -1,0 +1,7 @@
+metric,value
+Observed PRR signals,3017
+Null mean,652.4
+Null SD,32.3
+Null 95th pctile,702
+Empirical FDR,0.2162
+Signal-to-noise,4.6

@@ -1,0 +1,4 @@
+product_pattern,action_description,action_date,n_quarters_pre,n_quarters_post,mean_quarterly_pre,mean_quarterly_post,rate_ratio,rr_lower,rr_upper,poisson_step_change,step_change_p
+^HYDROXYCUT,"FDA recall, hepatotoxicity",2009-05-01,18,56,14.33,18.55,1.29,1.13,1.48,8.67,0
+^OXY.?ELITE,"FDA recall, acute hepatitis outbreak",2013-10-01,12,12,3.42,8.42,2.46,1.71,3.54,53.14,0
+^KRATOM,FDA import alert 54-15,2014-02-01,3,40,1.33,11.95,8.96,3.35,23.98,8.57,0

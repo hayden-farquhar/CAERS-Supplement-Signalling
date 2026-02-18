@@ -1,0 +1,9 @@
+analysis,n_reports,n_pairs_tested,n_robust_signals,n_concordant_with_full,pct_concordance
+Mandatory era (2007+),46955,4539,2968,2956,98
+Baseline,,4595,3017,,
+Strict PRR (>=3),,4595,2887,,
+Strict GPS (>=2.5),,4595,3017,,
+Strict GPS (>=3),,4595,3017,,
+Min N>=5,,1725,1263,,
+Min N>=10,,579,457,,
+All strict,,1725,1130,,

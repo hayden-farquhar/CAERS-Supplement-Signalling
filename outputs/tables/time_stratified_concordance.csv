@@ -1,0 +1,7 @@
+metric,value
+Era 1 robust,1438
+Era 2 robust,1429
+Both eras,75
+Era 1 only,1363
+Era 2 only,1354
+Jaccard index,0.027

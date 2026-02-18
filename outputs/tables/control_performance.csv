@@ -1,0 +1,9 @@
+metric,value
+Sensitivity,0.538
+Specificity,1
+PPV,1
+NPV,0.714
+TP,7
+FN,6
+FP,0
+TN,15

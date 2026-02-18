@@ -1,0 +1,16 @@
+soc,n_signals,n_products,mean_prr,median_cases,total_cases
+Other/Unclassified,1006,451,Inf,4,6977
+Gastrointestinal Disorders,799,518,8.15,5,8019
+General Disorders,246,173,30.99,4,1652
+Hepatobiliary Disorders,169,66,38.12,4,1151
+Nervous System Disorders,153,119,11.05,3,744
+Blood Disorders,115,87,71.02,4,645
+Respiratory Disorders,104,97,34.06,4,530
+Skin and Subcutaneous Tissue Disorders,91,67,18.43,3,366
+Cardiac Disorders,76,55,25.36,4,438
+Psychiatric Disorders,67,48,102.57,4,400
+Renal and Urinary Disorders,67,36,43.88,4,833
+Immune System Disorders,51,50,20.16,4,326
+Musculoskeletal Disorders,39,26,36.29,5,333
+Eye Disorders,18,11,13.48,4.5,139
+Metabolism and Nutrition Disorders,16,16,34.87,3.5,80
