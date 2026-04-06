@@ -2,7 +2,7 @@
 
 Reproducibility repository for:
 
-> Farquhar H. Disproportionality Analysis of Dietary Supplement Adverse Events in the FDA CAERS Database, 2004-2025. *Drug Safety* (submitted).
+> Farquhar H. Disproportionality Analysis of Dietary Supplement Adverse Events in the FDA CAERS Database, 2004-2025. *Preprint (Authorea)*. https://doi.org/10.22541/au.177383914.49860394/v1. Manuscript under consideration at a peer-reviewed journal.
 
 ## Overview
 
@@ -87,7 +87,9 @@ If you use this code or data, please cite:
 
 ```
 Farquhar H. Disproportionality Analysis of Dietary Supplement Adverse Events
-in the FDA CAERS Database, 2004-2025. Drug Safety (submitted).
+in the FDA CAERS Database, 2004-2025. Preprint (Authorea).
+https://doi.org/10.22541/au.177383914.49860394/v1
+Manuscript under consideration at a peer-reviewed journal.
 ```
 
 ## License
