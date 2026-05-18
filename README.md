@@ -14,7 +14,8 @@ This repository contains the analysis code and output files for a computational 
 - 2,146 signals detected by all four methods
 - 148 critical-tier signals by composite risk scoring
 - 451 temporally emerging signals via CUSUM control charts
-- 22 validation and sensitivity analyses supporting signal robustness
+- 24 validation and sensitivity analyses supporting signal robustness
+- Variant-name consolidation of the most heavily fragmented products (117 clusters covering 62.6% of signal-producing products) reduces the headline 3,017 product-name-level signals to an estimated 1,800–2,200 distinct product-level signals; targeted manual consolidation of top products retained 12 of 13 testable Table 2 signals as robust (+6.4% net signal count from pooled statistical power)
 
 ## Repository Structure
 
